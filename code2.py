@@ -1,9 +1,15 @@
+# Python program to print positive Numbers in a List
 
-a=("enter start of range")
-b=("enter end of range")
+# list of numbers
+list1 = [11, -21, 0, 45, 66, -93]
 
-for num in range(int(a),int(b)+1):
-	
-	# checking condition 
-	if num >= 0: 
-		print(num, end = " ") 
+# iterating each number in list
+for num in list1:
+
+	# checking condition
+	if num & gt
+	= 0:
+		print(num, end=& quot
+			& quot
+			)
+
